@@ -10,4 +10,4 @@ I'm a Quality Engineer & Front-End Software Engineer. 👨🏾‍💻
 - 🌱 I’m currently learning: TypeScript, Jest, Continue To Learn New Ways To Test In Cypress
 - 💬 Ask me about: What countries I visited for summer 😎🌞
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I stream! Gaming / Fallout 4 Gameplay! 
+

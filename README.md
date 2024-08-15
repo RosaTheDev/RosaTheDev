@@ -7,7 +7,6 @@ I'm a Quality Engineer & Front-End Software Engineer. 👨🏾‍💻
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 📫 How to reach me: ... -->
-- 🌱 I’m currently learning: TypeScript, Jest, Continue To Learn New Ways To Test In Cypress
-- 💬 Ask me about: What countries I visited for summer 😎🌞
+- 🌱 I’m currently learning: Computer Vision
 - 😄 Pronouns: He/Him
 
